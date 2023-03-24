@@ -5,10 +5,10 @@
 
                         git clone https://github.com/ar1879/interfaz
 
-4.- Install libraries.
+2.- Install libraries.
 
                     npm install
 
-5.- Run command:
+3.- Run command:
 
                     npm run dev
