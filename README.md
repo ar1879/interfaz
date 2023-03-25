@@ -4,11 +4,15 @@
 1.- Clone this repository:
 
                         git clone https://github.com/ar1879/interfaz
+                        
+2.- Enter the directory:
 
-2.- Install libraries.
+                        cd interfaz
+
+3.- Install libraries.
 
                     npm install
 
-3.- Run command:
+4.- Run command:
 
                     npm run dev
